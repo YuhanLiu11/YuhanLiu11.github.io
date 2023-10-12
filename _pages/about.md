@@ -24,6 +24,7 @@ OOPSLA 2023
 
 
 ## Preprints
+- Fast Context Loading for Language Model Applications [paper](https://arxiv.org/abs/2310.07240)
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   Yuhan Liu, Saurabh Agarwal, Shivaram Venkataraman
 
