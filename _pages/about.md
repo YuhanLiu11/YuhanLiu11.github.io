@@ -32,3 +32,9 @@ Yuhan Liu, Hanchen Li, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu,
 ## Teaching
 - Intro to computer systems (CMSC 15400), Teaching Assistant, Winter 2022
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
+
+## Awards
+- UU Fellowship (2023): University of Chicago fellowship
+- Neubauer Graduate Scholarship (2021): University of Chicago fellowship
+- Computing Research Association Outstanding Undergraduate Researcher Awards (2021): Honorable Mention
+- Trewartha Honors Senior Thesis award (2020): research grant for senior students carrying out thesis research with honor in CS.
