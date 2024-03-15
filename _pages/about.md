@@ -29,6 +29,14 @@ OOPSLA 2023
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 
+## Posters 
+- Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache <br />
+Hanchen Li, **Yuhan Liu**, Yihua Cheng, Kuntai Du, Junchen Jiang <br />
+NSDI 2024 Posters
+- AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning <br />
+**Yuhan Liu**, Saurabh Agarwal and Shivaram Venkataraman. <br />
+  Women in Machine Learning Workshop 2020 co-located with the NeurIPS conference.
+
 ## Teaching
 - Intro to computer systems (CMSC 15400), Teaching Assistant, Winter 2022
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
