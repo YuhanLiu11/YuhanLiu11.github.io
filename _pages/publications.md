@@ -29,3 +29,15 @@ Cell Reports Physical Science 2022
 - Multi defect detection and analysis of electron microscopy images with deep learning <br />
 Mingren Shen, Guanzhao Li, Dongxia Wu, **Yuhan Liu**, Jacob RC Greaves, Wei Hao, Nathaniel J Krakauer, Leah Krudy, Jacob Perez, Varun Sreenivasan, Bryan Sanchez, Oigimer Torres-Velázquez, Wei Li, Kevin G Field, Dane Morgan<br />
 Computational Materials Science 2021
+
+## Preprints 
+- CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving [paper](https://arxiv.org/abs/2310.07240)<br />
+**Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang
+- Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network [paper](https://arxiv.org/abs/2401.12961) <br />
+Hanchen Li, **Yuhan Liu**, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang
+- AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) <br />
+**Yuhan Liu**, Saurabh Agarwal and Shivaram Venkataraman
+- Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
+Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataraman, Aditya Akella
+
+
