@@ -13,7 +13,10 @@ I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be adv
 ## Publications
 - Automatic and Efficient Customization of Neural Networks for ML Applications <br />
 **Yuhan Liu**, Chengcheng Wan, Kuntai Du, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire <br />
-OSDI 2024 
+OSDI 2024
+- Fast Context Loading for Language Model Applications [paper](https://arxiv.org/abs/2310.07240) <br />
+**Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
+SIGCOMM 2024
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, **Yuhan Liu**, Yitian Hao, Qizheng Zhang, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
   SoCC 2023 
@@ -24,8 +27,6 @@ OOPSLA 2023
 
 
 ## Preprints
-- Fast Context Loading for Language Model Applications [paper](https://arxiv.org/abs/2310.07240) <br />
-**Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang <br />
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 
