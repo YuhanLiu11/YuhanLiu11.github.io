@@ -47,3 +47,5 @@ NSDI 2024 Posters
 - Neubauer Graduate Scholarship (2021): University of Chicago fellowship
 - Computing Research Association Outstanding Undergraduate Researcher Awards (2021): Honorable Mention
 - Trewartha Honors Senior Thesis award (2020): research grant for senior students carrying out thesis research with honor in CS.
+## Contact 
+yuhanl@uchicago.edu
