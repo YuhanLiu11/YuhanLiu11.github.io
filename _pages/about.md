@@ -12,7 +12,7 @@ I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be adv
 
 
 ## Recent Publications
-- Automatic and Efficient Customization of Neural Networks for ML Applications <br />
+- ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications <br />
   **Yuhan Liu**, Chengcheng Wan, Kuntai Du, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire <br />
 OSDI 2024
 - Fast Context Loading for Language Model Applications [paper](https://arxiv.org/abs/2310.07240) <br />
@@ -61,6 +61,10 @@ NSDI 2024 Posters
 - Computing Research Association Outstanding Undergraduate Researcher Awards (2021): Honorable Mention
 - Trewartha Honors Senior Thesis award (2020): research grant for senior students carrying out thesis research with honor in CS.
 
+## Work Experience 
+- Microsoft Research, June 2024 -- August 2024 <br />
+Research Intern <br/>
+Mentors: Madan Musuvathi, Esha Choukse, Shan Lu
 
 ## Contact 
 yuhanl[at]uchicago.edu
