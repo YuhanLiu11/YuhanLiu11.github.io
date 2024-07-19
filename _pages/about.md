@@ -12,12 +12,12 @@ I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be adv
 
 
 ## Recent Publications
+- CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240) <br />
+**Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
+SIGCOMM 2024
 - ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications <br />
   **Yuhan Liu**, Chengcheng Wan, Kuntai Du, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire <br />
 OSDI 2024
-- Fast Context Loading for Language Model Applications [paper](https://arxiv.org/abs/2310.07240) <br />
-**Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
-SIGCOMM 2024
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
 Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, Qizheng Zhang, **Yuhan Liu**, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
 NSDI 2024
@@ -38,6 +38,8 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
+-  CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion [paper](https://arxiv.org/abs/2405.16444) <br />
+Jiayi Yao, Hanchen Li, **Yuhan Liu**, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
@@ -62,7 +64,7 @@ NSDI 2024 Posters
 - Trewartha Honors Senior Thesis award (2020): research grant for senior students carrying out thesis research with honor in CS.
 
 ## Work Experience 
-- Microsoft Research, June 2024 -- August 2024 <br />
+- Microsoft Research, Summer 2024 <br />
 Research Intern <br/>
 Mentors: Madan Musuvathi, Esha Choukse, Shan Lu
 
