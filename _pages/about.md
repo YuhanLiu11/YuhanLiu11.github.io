@@ -15,6 +15,9 @@ I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be adv
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240) <br />
 **Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
 SIGCOMM 2024
+-  CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion [paper](https://arxiv.org/abs/2405.16444) <br />
+Jiayi Yao, Hanchen Li, **Yuhan Liu**, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang <br />
+EuroSys 2025
 - ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications <br />
   **Yuhan Liu**, Chengcheng Wan, Kuntai Du, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire <br />
 OSDI 2024
@@ -38,8 +41,6 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
--  CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion [paper](https://arxiv.org/abs/2405.16444) <br />
-Jiayi Yao, Hanchen Li, **Yuhan Liu**, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
