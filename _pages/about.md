@@ -11,7 +11,7 @@ I'm a third-year PhD student in the Department of CS at University of Chicago, a
 I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be advised by Prof. Shivaram Venkataraman. 
 
 
-## Recent Publications
+## Publications
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240) <br />
 **Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
 SIGCOMM 2024
@@ -41,6 +41,8 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
+- DroidSpeak: Enhancing Cross-LLM Communication [paper](https://arxiv.org/abs/2411.02820) <br />
+  **Yuhan Liu**, Esha Choukse, Shan Lu, Junchen Jiang, Madan Musuvathi
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
