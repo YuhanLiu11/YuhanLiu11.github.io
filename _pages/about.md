@@ -56,7 +56,11 @@ NSDI 2024 Posters
 **Yuhan Liu**, Saurabh Agarwal and Shivaram Venkataraman. <br />
   Women in Machine Learning Workshop 2020 co-located with the NeurIPS conference.
 
+## Invited Talks
+- Distributed Systems Lab @ University of Pennsylvania, Nov. 2024
+
 ## Teaching
+- Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
 - Intro to computer systems (CMSC 15400), Teaching Assistant, Winter 2022
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
 
