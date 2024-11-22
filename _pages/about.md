@@ -58,6 +58,7 @@ NSDI 2024 Posters
 
 ## Invited Talks
 - Distributed Systems Lab @ University of Pennsylvania, Nov. 2024
+- System Group @ Duke University, Nov. 2024
 
 ## Teaching
 - Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
