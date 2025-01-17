@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is Systems/Software engineering for ML. 
+I'm a fourth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is Systems/Software engineering for ML. 
 I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be advised by Prof. Shivaram Venkataraman. 
 
 
@@ -41,8 +41,8 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
-- DroidSpeak: Enhancing Cross-LLM Communication [paper](https://arxiv.org/abs/2411.02820) <br />
-  **Yuhan Liu**, Esha Choukse, Shan Lu, Junchen Jiang, Madan Musuvathi
+- DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving [paper](https://arxiv.org/abs/2411.02820) <br />
+  **Yuhan Liu**, Yuyang Huang, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
