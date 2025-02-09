@@ -10,6 +10,9 @@ redirect_from:
 I'm a fourth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is Systems/Software engineering for ML. 
 I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be advised by Prof. Shivaram Venkataraman. 
 
+**I'm currently working on the following open-source projects**:
+- [LMCache](https://github.com/LMCache/LMCache): The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost.
+- [vLLM production stack](https://github.com/vllm-project/production-stack): Scale from single vLLM instance to distributed vLLM deployment without changing any application code.
 
 ## Publications
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240) <br />
