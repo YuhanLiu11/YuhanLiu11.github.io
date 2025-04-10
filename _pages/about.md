@@ -56,12 +56,15 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 Hanchen Li, **Yuhan Liu**, Yihua Cheng, Kuntai Du, Junchen Jiang <br />
 NSDI 2024 Posters
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning <br />
-**Yuhan Liu**, Saurabh Agarwal and Shivaram Venkataraman. <br />
+**Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman. <br />
   Women in Machine Learning Workshop 2020 co-located with the NeurIPS conference.
 
 ## Invited Talks
 - Distributed Systems Lab @ University of Pennsylvania, Nov. 2024
 - System Group @ Duke University, Nov. 2024
+- ML System Group @ UCSD, March 2025
+- System Group @ University of Maryland, March 2025
+- Guest Lecture at Large Language Model Systems Class @ CMU
 
 ## Teaching
 - Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
