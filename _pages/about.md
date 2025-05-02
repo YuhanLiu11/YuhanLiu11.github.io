@@ -51,20 +51,13 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
 Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataraman, Aditya Akella
 
-## Posters 
-- Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache <br />
-Hanchen Li, **Yuhan Liu**, Yihua Cheng, Kuntai Du, Junchen Jiang <br />
-NSDI 2024 Posters
-- AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning <br />
-**Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman. <br />
-  Women in Machine Learning Workshop 2020 co-located with the NeurIPS conference.
-
 ## Invited Talks
 - Distributed Systems Lab @ University of Pennsylvania, Nov. 2024
 - System Group @ Duke University, Nov. 2024
 - ML System Group @ UCSD, March 2025
 - System Group @ University of Maryland, March 2025
-- Guest Lecture at Large Language Model Systems Class @ CMU
+- Guest Lecture at Large Language Model Systems Class @ CMU, April 2025
+- Efficient AI Seminar @ Rutgers University, May 2025
 
 ## Teaching
 - Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
