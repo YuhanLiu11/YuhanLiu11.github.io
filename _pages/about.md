@@ -66,7 +66,7 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
 
 ## Awards
-- EuroSys 2025 Best Paper Award 
+- EuroSys Best Paper Award (2025) 
 - UU Fellowship (2023): University of Chicago fellowship
 - Neubauer Graduate Scholarship (2021): University of Chicago fellowship
 - Computing Research Association Outstanding Undergraduate Researcher Awards (2021): Honorable Mention
