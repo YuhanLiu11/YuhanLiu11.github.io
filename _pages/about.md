@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is Systems/Software engineering for ML. 
+I'm a fourth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is building efficient inference systems for LLMs. 
 I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be advised by Prof. Shivaram Venkataraman. 
 
 **I'm currently working on the following open-source projects**:
@@ -15,12 +15,15 @@ I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be adv
 - [vLLM production stack](https://github.com/vllm-project/production-stack): Scale from single vLLM instance to distributed vLLM deployment without changing any application code.
 
 ## Publications
+- DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving [paper](https://arxiv.org/abs/2411.02820) <br />
+  **Yuhan Liu**, Yuyang Huang, Jiayi Yao, Shaoting Feng, Zhuohan Gu, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse <br />
+  NSDI 2026
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240) <br />
 **Yuhan Liu**, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao,  Shan Lu,  Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang <br />
 SIGCOMM 2024
 -  CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion [paper](https://arxiv.org/abs/2405.16444) <br />
 Jiayi Yao, Hanchen Li, **Yuhan Liu**, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang <br />
-EuroSys 2025
+EuroSys 2025 (Best Paper)
 - ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications <br />
   **Yuhan Liu**, Chengcheng Wan, Kuntai Du, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire <br />
 OSDI 2024
@@ -44,8 +47,6 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
-- DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving [paper](https://arxiv.org/abs/2411.02820) <br />
-  **Yuhan Liu**, Yuyang Huang, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
@@ -65,6 +66,7 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
 
 ## Awards
+- EuroSys 2025 Best Paper Award 
 - UU Fellowship (2023): University of Chicago fellowship
 - Neubauer Graduate Scholarship (2021): University of Chicago fellowship
 - Computing Research Association Outstanding Undergraduate Researcher Awards (2021): Honorable Mention
@@ -74,6 +76,17 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - Microsoft Research, Summer 2024 <br />
 Research Intern <br/>
 Mentors: Madan Musuvathi, Esha Choukse, Shan Lu
+
+## Mentored Students 
+- Hanchen Li, University of Chicago, June 2023 – Present, to PhD at University of California, Berkeley
+- Zhuohan Gu, University of Chicago, Jan. 2024 – Present, to PhD at Massachusetts Institute of
+Technology
+- Shaoting Feng, University of Chicago, Sept. 2024 – Present
+- Ashton Tang, University of Chicago, June 2024 - September 2024
+
+## Service
+- Co-Chair of Graduate Women in Computer Science (GWiCS) at University of Chicago, Fall 2024-Summer 2025
+- Reviewer for NeurIPS 2022, ICML 2022
 
 ## Contact 
 yuhanl[at]uchicago.edu
