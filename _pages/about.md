@@ -59,6 +59,7 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - System Group @ University of Maryland, March 2025
 - Guest Lecture at Large Language Model Systems Class @ CMU, April 2025
 - Efficient AI Seminar @ Rutgers University, May 2025
+- Amazon Rufus, August 2025
 
 ## Teaching
 - Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
@@ -66,6 +67,7 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - Intro to database systems (CS 564), Peer mentor, Fall 2020 (At Madison)
 
 ## Awards
+- EECS Rising Star (2025)
 - EuroSys Best Paper Award (2025) 
 - UU Fellowship (2023): University of Chicago fellowship
 - Neubauer Graduate Scholarship (2021): University of Chicago fellowship
