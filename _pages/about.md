@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is building efficient inference systems for LLMs. 
+I'm a fifth-year PhD student in the Department of CS at University of Chicago, advised by Prof. Junchen Jiang and Prof. Shan Lu. My research interest is building efficient inference systems for LLMs. 
 I received my B.S. in CS at University of Wisconsin-Madison, fortunate to be advised by Prof. Shivaram Venkataraman. 
 
-**I'm currently working on the following open-source projects**:
-- [LMCache](https://github.com/LMCache/LMCache): The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost.
-- [vLLM production stack](https://github.com/vllm-project/production-stack): Scale from single vLLM instance to distributed vLLM deployment without changing any application code.
 
 ## Publications
 - DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving [paper](https://arxiv.org/abs/2411.02820) <br />
@@ -40,6 +37,11 @@ TOSEM 2024
 Chengcheng Wan, **Yuhan Liu**, Kuntai Du, Henry Hoffmann, Junchen Jiang, Michael Maire, Shan Lu <br />
 OOPSLA 2023
 
+## Open-source projects
+- [LMCache](https://github.com/LMCache/LMCache): The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost.
+- [vLLM production stack](https://github.com/vllm-project/production-stack): Scale from single vLLM instance to distributed vLLM deployment without changing any application code.
+
+
 ## Workshops 
 - Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network [paper](https://arxiv.org/abs/2401.12961) <br />
 Hanchen Li, **Yuhan Liu**, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
@@ -47,6 +49,8 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 
 ## Preprints
+- LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference [paper](https://arxiv.org/pdf/2510.09665) <br />
+  **Yuhan Liu***, Yihua Cheng*, Jiayi Yao*, Yuwei An, Xiaokun Chen, Shaoting Feng, Yuyang Huang, Samuel Shen, Kuntai Du, Junchen Jiang
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
@@ -87,6 +91,7 @@ Technology
 - Ashton Tang, University of Chicago, June 2024 - September 2024
 
 ## Service
+- Organizer of SIGCOMM'25 Tutorial Session: [Networking for Stateful LLM Inference](https://conferences.sigcomm.org/sigcomm/2025/tutorials-hackathons/tutorial-nllm/)
 - Co-Chair of Graduate Women in Computer Science (GWiCS) at University of Chicago, Fall 2024-Summer 2025
 - Reviewer for NeurIPS 2022, ICML 2022
 
