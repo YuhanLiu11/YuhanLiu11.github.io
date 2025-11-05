@@ -50,7 +50,7 @@ SIGCOMM Workshop on Networks for AI Computing (NAIC)
 
 ## Preprints
 - LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference [paper](https://arxiv.org/pdf/2510.09665) <br />
-  **Yuhan Liu***, Yihua Cheng*, Jiayi Yao*, Yuwei An, Xiaokun Chen, Shaoting Feng, Yuyang Huang, Samuel Shen, Kuntai Du, Junchen Jiang
+  **Yuhan Liu***, Yihua Cheng*, Jiayi Yao*, Yuwei An, Xiaokun Chen, Shaoting Feng, Yuyang Huang, Samuel Shen, Kuntai Du, Junchen Jiang 
 - AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning [paper](https://arxiv.org/abs/2102.01386) [code](https://github.com/YuhanLiu11/AutoFreeze) <br />
   **Yuhan Liu**, Saurabh Agarwal, Shivaram Venkataraman
 - Accelerating deep learning inference via learned caches [paper](https://arxiv.org/abs/2101.07344) <br />
@@ -64,6 +64,7 @@ Arjun Balasubramanian, Adarsh Kumar, **Yuhan Liu**, Han Cao, Shivaram Venkataram
 - Guest Lecture at Large Language Model Systems Class @ CMU, April 2025
 - Efficient AI Seminar @ Rutgers University, May 2025
 - Amazon Rufus, August 2025
+- Guest Lecture at LLM Systems Seminar @ Northeastern University, Oct. 2025
 
 ## Teaching
 - Graduate Networking (CMSC 33300), Teaching Assistant, Autumn 2024
